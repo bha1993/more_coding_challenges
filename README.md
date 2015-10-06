@@ -7,3 +7,11 @@ Write search algorithm that finds location j in the array such that all elements
 Given an array A of N integers (where elements of A are not necessarily unique and sorted in ascending order). Given target integer x.
 
 I also included a test suite.
+
+---
+
+Part 2 (see RandomLine.java):
+
+Given a ridiculously large plain text file where each line contains a plain text string, and the file has at most 1 billion lines where each line is max 1000 characters long, write a program that prints an arbitrary line from the file.
+
+The program will be run many times, and may minimize the runtime for subsequent executions. Additional disk storage is allowed. It should take two command line arguments: path of the file and index of line you want to print. Program should write the line to standard output.
