@@ -1,7 +1,6 @@
 /**
  * @author Brian Ha
  * @version 1.0
- * @since 2014-11-23
  */
 public class Search {
 
